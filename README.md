@@ -3,9 +3,9 @@
 > [!IMPORTANT]
 > This is not a standalone theme, needs [Hyprdots](https://github.com/alex5402/hyprdots) installed...
 
-![231120_00h44m17s_screenshot](https://github.com/ALEX5402/Synth-Wave-theme/assets/106020512/374fbe5c-90e6-404e-b9b2-4e389e124cf7)
+![231120_00h44m17s_screenshot](https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/374fbe5c-90e6-404e-b9b2-4e389e124cf7)
 
-![231120_00h44m42s_screenshot](https://github.com/ALEX5402/Synth-Wave-theme/assets/106020512/c49638d2-4fce-4820-8af3-70e553105bc5)
+![231120_00h44m42s_screenshot](https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/c49638d2-4fce-4820-8af3-70e553105bc5)
 
 > [!NOTE]
 > install this theme using themepatcher
